@@ -7,7 +7,10 @@ div.arrow_table {
   flex-direction: column;
   margin: 10px auto;
   width: 80%;
-  max-width: 500px;
+  max-width: 400px;
+}
+div.arrow_element:hover {
+  background-color: #83A3A0;
 }
 div.arrow {
   display: flex;
